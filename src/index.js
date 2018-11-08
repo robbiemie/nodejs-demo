@@ -9,3 +9,6 @@
 
 /** 4.引用第三方库 */
 // require('./chalk/index')
+
+/** 5.进程(process)相关 */
+require('./process/index')
