@@ -2,4 +2,10 @@
 // require('./cache/index')
 
 /** 2.模块循环引用 */
-require('./circleRefer/index')
+// require('./circleRefer/index')
+
+/** 3.调用文件系统 */
+// require('./fs/index')
+
+/** 4.引用第三方库 */
+// require('./chalk/index')

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yang657850144/nodejs-demo/issues"
   },
-  "homepage": "https://github.com/yang657850144/nodejs-demo#readme"
+  "homepage": "https://github.com/yang657850144/nodejs-demo#readme",
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
 }
