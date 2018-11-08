@@ -20,4 +20,10 @@
 // require('./path/index')
 
 /** 8.promise相关 */
-require('./promisify/index')
+// require('./promisify/index')
+
+/** 9.buffer相关 */
+// require('./buffer/index')
+
+/** 10.events相关 */
+require('./events/index')

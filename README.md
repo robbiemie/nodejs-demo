@@ -10,6 +10,8 @@
 - 6.debug相关
 - 7.path相关 
 - 8.promisify | async/await
+- 9.buffer相关
+- 10.events相关
 
 
 
