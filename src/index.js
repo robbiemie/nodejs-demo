@@ -11,4 +11,7 @@
 // require('./chalk/index')
 
 /** 5.进程(process)相关 */
-require('./process/index')
+// require('./process/index')
+
+/** 6.debug相关 */
+// require('./debug/index.js')
