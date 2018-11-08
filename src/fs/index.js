@@ -1,2 +1,3 @@
 // require('./readfile')
-require('./stream')
+// require('./createReadStream')
+require('./createWriteStream')
