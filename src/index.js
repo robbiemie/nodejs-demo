@@ -5,7 +5,7 @@
 // require('./circleRefer/index')
 
 /** 3.调用文件系统 */
-require('./fs/index')
+// require('./fs/index')
 
 /** 4.引用第三方库 */
 // require('./chalk/index')
